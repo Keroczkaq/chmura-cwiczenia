@@ -1,4 +1,4 @@
-# chmura-cwiczenia
+# Chmura — ćwiczenia
 
 Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 
