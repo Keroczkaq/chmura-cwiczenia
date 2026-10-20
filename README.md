@@ -16,5 +16,5 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 
 - **Strona-wizytówka:** [Zobacz stronę](https://Keroczkaq.github.io/chmura-cwiczenia/)
 - **Notatnik (Google Colab):** [Otwórz w Colabie](https://colab.research.google.com/github/Keroczkaq/chmura-cwiczenia/blob/main/Copy_of_Cwiczenia_01_Chmura_bez_karty_Colab_i_GitHub.ipynb)
-- **Słownik odpowiedników:** [notatki/slownik.md](notatki/slownik.md)
-- **Druga notatka:** [notatki/cechy-nist.md](notatki/cechy-nist.md)
+- **Słownik:** [notatki/slownik.md](notatki/slownik.md)
+- **Bezpieczeństwo:** [notatki/bezpieczenstwo.md](notatki/bezpieczenstwo.md)
